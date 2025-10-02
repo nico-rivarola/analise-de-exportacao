@@ -107,4 +107,14 @@ Pré-requisitos
       - Utilize os scripts Python disponibilizados para criar modelos de regressão e classificação dentro do ambiente Python ou integrados ao Power BI.
       
       - Aplique os modelos para prever faturamento e identificar pedidos de alto potencial.
-        
+
+ ## 👤 Sobre mim
+
+   Me chamo Nicolás, e sou apaixonado por análise de dados e machine learning.  
+        Conecte-se comigo no LinkedIn clicando no botão abaixo! 👇
+
+  <p align="center">
+    📬 Me adicione no <a href="https://www.linkedin.com/in/nicolás-rivarola/" target="_blank">LinkedIn</a> !
+  </p>
+
+
